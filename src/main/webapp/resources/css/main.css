@@ -1,0 +1,22 @@
+.centered{
+    text-align: center;
+}
+#column1{
+    background-color: aquamarine;
+}
+#column2{
+    background-color: #96f0f0;
+}
+#column3{
+    background-color: #e9e7f6;
+}
+/*обязательное поле*/
+.mandatory{
+    color: #BA0000;
+    font-family: Verdana;
+    font-size: 16px;
+    font-weight: bold
+}
+#authorSelect{
+    visibility: hidden;
+}
